@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Solar System Quiz App</string>
+
+    <!-- Header text for the quiz [CHAR LIMIT = 20] -->
+    <string name="quiz_title">KNOW THE SOLAR SYSTEM?</string>
+
+    <!-- Title body, explanation [CHAR LIMIT = 200] -->
+    <string name="title_body">This quiz will test how big your brain is on the solar system, is it as big as a bird or as big as an ant!</string>
+
+    <!-- Title: question 1 [CHAR LIMIT = 20] -->
+    <string name="question_1">Question 1</string>
+    <!-- Question body text 1 [CHAR LIMIT = 200] -->
+    <string name="question_body_1"> The __________ has planets, moons, comets, and asteroids?</string>
+    <!-- Answers a for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_1a">Solar system</string>
+    <!-- Answers b for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_1b">Earth</string>
+    <!-- Answers c for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_1c">Rotation</string>
+    <!-- Answers d for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_1d">Nigeria</string>
+
+    <!-- Title: question 2 [CHAR LIMIT = 20] -->
+    <string name="question_2">Question 2</string>
+    <!-- Question body text 2 [CHAR LIMIT = 200] -->
+    <string name="question_body_2">Which is the largest object in our solar system?</string>
+    <!-- Answers a for Question 2 [CHAR LIMIT = 100] -->
+    <string name="answer_2a">Pluto</string>
+    <!-- Answers b for Question 2 [CHAR LIMIT = 100] -->
+    <string name="answer_2b">Jupiter</string>
+    <!-- Answers c for Question 2 [CHAR LIMIT = 100] -->
+    <string name="answer_2c">Sun</string>
+    <!-- Answers d for Question 2 [CHAR LIMIT = 100] -->
+    <string name="answer_2d">Earth</string>
+
+    <!-- Title: question 3 [CHAR LIMIT = 20] -->
+    <string name="question_3">Question 3</string>
+    <!-- Question body text 3 [CHAR LIMIT = 200] -->
+    <string name="question_body_3">Planet closest to the sun.  Smallest planet in our solar system.  Has virtually no atmosphere?</string>
+    <!-- Answers a for Question 3 [CHAR LIMIT = 100] -->
+    <string name="answer_3a">Pluto</string>
+    <!-- Answers b for Question 3 [CHAR LIMIT = 100] -->
+    <string name="answer_3b">Mercury</string>
+    <!-- Answers c for Question 3 [CHAR LIMIT = 100] -->
+    <string name="answer_3c">Venus</string>
+
+    <!-- Title: question 4 [CHAR LIMIT = 20] -->
+    <string name="question_4">Question 4</string>
+    <!-- Question body text 4 [CHAR LIMIT = 200] -->
+    <string name="question_body_4">Astronauts in a spaceship feel_______?</string>
+    <!-- Answers a for Question 4 [CHAR LIMIT = 100] -->
+    <string name="answer_4a">Weightless</string>
+    <!-- Answers b for Question 4 [CHAR LIMIT = 100] -->
+    <string name="answer_4b">Hot</string>
+    <!-- Answers c for Question 4 [CHAR LIMIT = 100] -->
+    <string name="answer_4c">Gravity</string>
+
+    <!-- Title: question 5 [CHAR LIMIT = 20] -->
+    <string name="question_5">Question 5</string>
+    <!-- Question body text 5 [CHAR LIMIT = 200] -->
+    <string name="question_body_5">Where is the asteroid belt located?</string>
+    <!-- Answers a for Question 5 [CHAR LIMIT = 100] -->
+    <string name="answer_5a">Between the Sun and the Earth </string>
+    <!-- Answers b for Question 5 [CHAR LIMIT = 100] -->
+    <string name="answer_5b">Between Mars and Jupiter</string>
+    <!-- Answers c for Question 5 [CHAR LIMIT = 100] -->
+    <string name="answer_5c">Solar System</string>
+
+    <!-- Title: question 6 [CHAR LIMIT = 20] -->
+    <string name="question_6">Question 6</string>
+    <!-- Question body text 6 [CHAR LIMIT = 200] -->
+    <string name="question_body_6"> How many planets are there in our solar system?</string>
+    <!-- Answers a for Question 6 [CHAR LIMIT = 100] -->
+    <string name="answer_6a">5</string>
+    <!-- Answers b for Question 6 [CHAR LIMIT = 100] -->
+    <string name="answer_6b">6</string>
+    <!-- Answers c for Question 6 [CHAR LIMIT = 100] -->
+    <string name="answer_6c">8</string>
+
+    <!-- Title: question 7 [CHAR LIMIT = 20] -->
+    <string name="question_7">Question 7</string>
+    <!-- Question body text 7 [CHAR LIMIT = 200] -->
+    <string name="question_body_7">To weigh roughly two-thirds less than what you do on Earth, which planet would you be on?</string>
+    <!-- Answers a for Question 7 [CHAR LIMIT = 100] -->
+    <string name="answer_7a">Jupiter</string>
+    <!-- Answers b for Question 7 [CHAR LIMIT = 100] -->
+    <string name="answer_7b">Uranus</string>
+    <!-- Answers c for Question 7 [CHAR LIMIT = 100] -->
+    <string name="answer_7c">Mars</string>
+
+    <!-- Title: question 8 [CHAR LIMIT = 20] -->
+    <string name="question_8">Question 8</string>
+    <!-- Question body text 8 [CHAR LIMIT = 200] -->
+    <string name="question_body_8">How long does it take for light from the Sun to reach Earth?</string>
+    <!-- Answers a for Question 8 [CHAR LIMIT = 100] -->
+    <string name="answer_8a">8 minutes</string>
+    <!-- Answers b for Question 8 [CHAR LIMIT = 100] -->
+    <string name="answer_8b">1 minute</string>
+    <!-- Answers c for Question 8 [CHAR LIMIT = 100] -->
+    <string name="answer_8c">24 hours</string>
+
+    <!-- Title: question 9 [CHAR LIMIT = 20] -->
+    <string name="question_9">Question 9</string>
+    <!-- Question body text 9 [CHAR LIMIT = 200] -->
+    <string name="question_body_9">How old is the solar system?</string>
+    <!-- Answers a for Question 9 [CHAR LIMIT = 100] -->
+    <string name="answer_9a">5 billion years</string>
+    <!-- Answers b for Question 9 [CHAR LIMIT = 100] -->
+    <string name="answer_9b">5000 years</string>
+    <!-- Answers c for Question 9 [CHAR LIMIT = 100] -->
+    <string name="answer_9c">500 billion years</string>
+
+    <!-- Title: question 10 [CHAR LIMIT = 20] -->
+    <string name="question_10">Question 10</string>
+    <!-- Question body text 10 [CHAR LIMIT = 200] -->
+    <string name="question_body_10">Which of the following are not planets? (Multiple choice.)</string>
+    <!-- Answers a for Question 10 [CHAR LIMIT = 100] -->
+    <string name="answer_10a">Sun</string>
+    <!-- Answers b for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_10b">Mars</string>
+    <!-- Answers c for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_10c">Asteroids</string>
+    <!-- Answers d for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_10d">Jupiter</string>
+
+    <!-- Title: question 11 [CHAR LIMIT = 20] -->
+    <string name="question_11">Question 11</string>
+    <!-- Question body text 11 [CHAR LIMIT = 200] -->
+    <string name="question_body_11">What is your name? (Dont worry, we are only going to use it to send you the final score)</string>
+    <!-- Answers d for Question 1 [CHAR LIMIT = 100] -->
+    <string name="answer_11">Please type your Name here</string>
+
+    <!-- Button Submit [CHAR LIMIT = 20] -->
+    <string name="submit">Submit your answers</string>
+    <!-- Text before submit button [CHAR LIMIT = 200] -->
+    <string name="submit_text">Are you sure you done? Please click "Submit " button to show the result</string>
+    <string name="result_0_40">Your brain is the size of goat!</string>
+    <string name="result_50_60">Your brain is the size of ant, which is pretty smart, you know!</string>
+    <string name="result_70_90">Wow, your brain is the size of monkey, relatives of people!</string>
+    <string name="result_90_100">Your brain is the size of human! A smart one!</string>
+
+</resources>
